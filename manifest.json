@@ -1,0 +1,40 @@
+{
+  "challengeId": "14",
+  "files": [
+    {
+      "path": "Employe_Destination_Anonymise_VF.xlsx",
+      "bytes": 25041,
+      "sha256": "67c4d64b4a11e566bc4962da8a50562b47f394c27a3555476117b0a702b10717"
+    },
+    {
+      "path": "Employe_Source_Anonymise_VF.xlsx",
+      "bytes": 22517,
+      "sha256": "4f825d17938a8170ea1ed2986b12ed240987430984b3693b993bd8f2f290f5b6"
+    },
+    {
+      "path": "Mapping.xlsx",
+      "bytes": 23040,
+      "sha256": "6e7e618d6efbc67576056de610f91b8f47beebbbf59873ffe797f3d305a677ee"
+    },
+    {
+      "path": "Motif de la situation d'emploi.xlsx",
+      "bytes": 15437,
+      "sha256": "5d143df7ee15e3532eb01469a5a442bc87d1a80edc9cbb3d90bcb246f9e0973b"
+    },
+    {
+      "path": "Présentation - CorroborIA LQ.pptx",
+      "bytes": 138329,
+      "sha256": "0ba5f79a7a2acc6a51c6ddeb495f9de9590010bdeb1a73b1d53fa9e2bfd7a68b"
+    },
+    {
+      "path": "consignes.pdf",
+      "bytes": 130466,
+      "sha256": "46603dc626a3ed5eb582a4a2c31257de995bbf261938207bc5b300cb3786cd0f"
+    },
+    {
+      "path": "détail_du_poste.xlsx",
+      "bytes": 17792,
+      "sha256": "ab142775628bc16d4239b01d94733f9f094004ff9c36db33bdc190862ab18b6c"
+    }
+  ]
+}

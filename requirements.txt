@@ -1,0 +1,10 @@
+pandas>=2.2
+openpyxl>=3.1
+numpy>=1.26
+scipy>=1.11
+streamlit>=1.40
+altair>=5
+anthropic>=0.40      # optionnel : niveau 3 via l'API Claude
+requests>=2.31       # optionnel : niveau 3 via Ollama (local)
+pytest>=8            # tests
+nbformat>=5          # notebook
